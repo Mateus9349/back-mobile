@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "api_root",
-    "password": "123456",
-    "database": "api_mobile",
+    "username": "root",
+    "password": "",
+    "database": "app_inatu",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
